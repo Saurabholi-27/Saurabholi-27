@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Saurabh Oli</h1>
 <h3 align="center">A passionate Data Science Developer from India, skilled in transforming complex datasets into actionable insights through advanced analytics and machine learning.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2017/10/scopet.gif">
+<img align="right" alt="Coding" width="400" src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabholi-27&label=Profile%20views&color=0e75b6&style=flat" alt="saurabholi-27" /> </p>
 
